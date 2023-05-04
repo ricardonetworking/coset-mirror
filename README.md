@@ -1,1 +1,1 @@
-Update pyproject.toml [tool.pytest.ini_options] (#9259)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
