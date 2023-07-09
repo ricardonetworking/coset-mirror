@@ -1,1 +1,1 @@
-Link checks SSL insecure robustness (#7853)
+Add OBB models to GITHUB_ASSET_NAMES (#7425)
