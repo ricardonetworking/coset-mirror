@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+Move Explorer tests to scheduled CI (#8305)
