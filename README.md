@@ -1,1 +1,1 @@
-ultralytics 8.1.0 YOLOv8 Oriented Bounding Box (OBB) release (#7463)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
