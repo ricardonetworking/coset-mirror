@@ -1,1 +1,1 @@
-Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
+Add visuals in guides/distance-calculation.md (#7876)
