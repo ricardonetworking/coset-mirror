@@ -1,1 +1,1 @@
-add yolov10
+Compress docs images (#8124)
