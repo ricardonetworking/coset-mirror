@@ -1,1 +1,1 @@
-* fix for predicting with batch_size > 1
+Update Docs README (#8919)
