@@ -1,1 +1,1 @@
-Remove unused variables (#8511)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
