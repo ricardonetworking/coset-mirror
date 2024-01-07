@@ -1,1 +1,1 @@
-Add TorchScript Docs Integrations Page (#8501)
+Fix Multi-GPU resume bug (#7328)
