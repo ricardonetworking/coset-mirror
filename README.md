@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Capitalize OBB acronym (#7383)
