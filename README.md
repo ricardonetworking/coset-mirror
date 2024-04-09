@@ -1,1 +1,1 @@
-Add horizontal Mosaic3 augmentation (#6898)
+Fixed dataloader CPU bottleneck for small batch sizes (#7659)
