@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+Add https://youtu.be/rCggzXRRSRo to Speed Estimation Docs (#8577)
