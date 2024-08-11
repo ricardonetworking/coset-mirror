@@ -1,1 +1,1 @@
-Fix PNNX ubuntu -> linux bug (#7050)
+Add settings runs_dir == datasets_dir warning (#8653)
