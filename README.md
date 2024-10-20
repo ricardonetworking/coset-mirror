@@ -1,1 +1,1 @@
-Retry once for Docker CI failures (#8164)
+Mkdocs annotations fixes (#7600)
